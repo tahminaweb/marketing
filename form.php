@@ -336,9 +336,14 @@ $enabled_fields = $page_details_obj['form_fields'];
 								<span class="first-icon fui-checkbox-unchecked"></span>
 								<span class="second-icon fui-checkbox-checked"></span>
 							</span>
+
+							<span> The Stage will NOT share your information with any 3rd parties. From time to we may send you some lovely offers in relation to The Stage and The Stage Castings. </span>
+							<br/>
+							<br/>
+
 							<input type="checkbox" name="subscriber_opt_in" value="yes" data-toggle="checkbox">
-							<span class="wpcf7-list-item-label">
-                             The Stage will NOT share your information with any 3rd parties. From time to we may send you some lovely offers in relation to The Stage and The Stage Castings. Please tick this box [ ] if you don't want to be sent these messages.
+							<span class="wpcf7-list-item-label">                            
+                             Please tick this box if you don't want to be sent these messages.
 							</span>
 						</label>
 					</span>
